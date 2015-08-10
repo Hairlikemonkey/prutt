@@ -14,7 +14,7 @@ public class Test {
 		   System.out.println(sum);
 		  }
 		  System.out.println("The sum is:" + sum);
-		  // Detta är en ny kommit från David
+		  // Detta är en ny commit från David
 	}
 
 }
